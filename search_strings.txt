@@ -1,0 +1,20 @@
+Columbus:
+("Columbus" OR "#Columbus" OR "columbus") AND ("cancel" OR "cancelled" OR "canceling" OR "removal" OR "statue" OR "colonizer" OR "coloniser" OR "colonization" OR "colonial" OR "#cancelculture" OR "cancel culture" OR "racist" OR "racism") until:2020-09-01 since:2020-06-01 -filter:replies
+
+("Columbus" OR "#Columbus" OR "columbus") AND ("cancel" OR "cancelled" OR "canceling" OR "removal" OR "statue" OR "colonizer" OR "coloniser" OR "colonization" OR "colonial" OR "#cancelculture" OR "cancel culture" OR "racist" OR "racism") until:2020-08-14 since:2020-06-01 -filter:replies
+
+("Columbus" OR "#Columbus" OR "columbus") AND ("cancel" OR "cancelled" OR "canceling" OR "removal" OR "statue" OR "colonizer" OR "coloniser" OR "colonization" OR "colonial" OR "#cancelculture" OR "cancel culture" OR "racist" OR "racism") until:2020-08-01 since:2020-06-01 -filter:replies
+
+Churchill:
+("Churchill" OR "#Churchill" OR "churchill") AND ("cancel" OR "cancelled" OR "canceling" OR "racist" OR "racism" OR "colonialism" OR "colonial" OR "colonizer" OR "coloniser" OR "statue" OR "curriculum" OR "remove") until:2020-09-01 since:2020-05-15 -filter:replies
+
+Rowling:
+("@jk_rowling" OR "rowling" OR "Rowling") AND ("cancel" OR "cancelled" OR "canceling" OR "boycott" OR "boycotting" OR "boycotted" OR "T.E.R.F." OR "TERF" OR "terf" OR "transphobic" OR "trans" OR "transgender" OR "ban" OR "banned" OR "removed" OR "#cancelculture") until:2020-10-15 since:2020-05-15 -filter:replies
+
+Dr. Seuss:
+("#DrSeuss" OR "seuss" OR "Seuss") AND ("cancel" OR "cancelled" OR "racist" OR "racism" OR "stereotype" OR "stereotypes" OR "stereotypical" OR "pulled" OR "pulling" OR "pull" OR "banned" OR "ban" OR "boycott" OR "boycotted" OR "banning" OR "boycotting" OR "discontinued" OR "discontinue" OR "#cancelculture") until:2021-05-01 since:2021-02-01 -filter:replies
+
+("#DrSeuss" OR "seuss" OR "Seuss") AND ("cancel" OR "cancelled" OR "racist" OR "racism" OR "stereotype" OR "stereotypes" OR "stereotypical" OR "pulled" OR "pulling" OR "pull" OR "banned" OR "ban" OR "boycott" OR "boycotted" OR "banning" OR "boycotting" OR "discontinued" OR "discontinue" OR "#cancelculture") until:2021-03-02 since:2021-02-01 -filter:replies
+
+Montanelli:
+("Montanelli" OR "#Montanelli" OR "montanelli") AND ("cancel" OR "cancelled" OR "cancelling" OR "#cancelculture" OR "cancellato" OR "cancellare" OR "statue" OR "statua" OR "vandalism" OR "vandalismo" OR "colonialismo" OR "colonialista" OR "colonizzatore" OR "colonialism" OR "removed" OR "rimosso" OR "rimossa" or "rimuovere" OR "abbattere" OR "abbattuta" OR "racism" OR "razzismo" OR "fascism" OR "fascist" OR "fascismo" OR "fascista" OR "pedo" OR "pedofilo" OR "pedofilia" OR "pedophilia" OR "pedophile")
